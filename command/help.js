@@ -187,12 +187,6 @@ ${mundur}
  • ${prefix}ytsearch
  • ${prefix}searchbyimage${petik}
 
-*RANDOM MENU*${petik}
- • ${prefix}cecan
- • ${prefix}cogan
- • ${prefix}waifu${petik}
-
-
 *BALANCE MENU*${petik}
  • ${prefix}topglobal
  • ${prefix}toplocal
@@ -212,14 +206,6 @@ ${mundur}
  • ${prefix}listimg
  • ${prefix}listvid${petik}
  
-*BAILEYS*${petik}
- • ${prefix}fitnah
- • ${prefix}nowa
- • ${prefix}getquoted
- • ${prefix}fakehidetag
- • ${prefix}react
- • ${prefix}setcmd
- • ${prefix}delcmd${petik}
 
 *OWNERS MENU*${petik}
  • ${prefix}autoread
@@ -242,88 +228,6 @@ ${mundur}
  • ${prefix}delpremium
  • ${prefix}addsewa
  • ${prefix}delsewa${petik}
-
-*ASUPAN MENU*${petik}
- • ${prefix}chika
- • ${prefix}delvira
- • ${prefix}ayu
- • ${prefix}bunga
- • ${prefix}aura
- • ${prefix}nisa
- • ${prefix}ziva
- • ${prefix}yana
- • ${prefix}viona
- • ${prefix}syania
- • ${prefix}riri
- • ${prefix}syifa
- • ${prefix}mama_gina
- • ${prefix}alcakenya
- • ${prefix}mangayutri
- • ${prefix}rikagusriani
- • ${prefix}asupan
- • ${prefix}bocil
- • ${prefix}geayubi
- • ${prefix}santuy
- • ${prefix}ukhty
- • ${prefix}syifa${petik}
-
-*NSFW MENU*${petik}
- • ${prefix}baka
- • ${prefix}smug
- • ${prefix}neko_sfw
- • ${prefix}hentai_gif
- • ${prefix}spank
- • ${prefix}blowjob
- • ${prefix}cumarts
- • ${prefix}eroyuri
- • ${prefix}eroneko
- • ${prefix}erokemonomimi
- • ${prefix}erokitsune
- • ${prefix}ero
- • ${prefix}feet
- • ${prefix}erofeet
- • ${prefix}feetgif
- • ${prefix}femdom
- • ${prefix}futanari
- • ${prefix}hentai
- • ${prefix}holoero
- • ${prefix}holo
- • ${prefix}keta
- • ${prefix}kitsune
- • ${prefix}kemonomimi
- • ${prefix}pussyart
- • ${prefix}pussywankgif
- • ${prefix}girl_solo
- • ${prefix}girl_solo_gif
- • ${prefix}tits
- • ${prefix}trap
- • ${prefix}yuri
- • ${prefix}avatar2
- • ${prefix}anal
- • ${prefix}bj
- • ${prefix}boobs
- • ${prefix}classic
- • ${prefix}cumsluts
- • ${prefix}kuni
- • ${prefix}lesbian
- • ${prefix}neko
- • ${prefix}neko_gif
- • ${prefix}ahegao
- • ${prefix}bdsm
- • ${prefix}cuckold
- • ${prefix}cum
- • ${prefix}foot
- • ${prefix}gangbang
- • ${prefix}glasses
- • ${prefix}jahy
- • ${prefix}masturbation
- • ${prefix}nsfw_neko
- • ${prefix}orgy
- • ${prefix}panties
- • ${prefix}tentacles
- • ${prefix}thighs
- • ${prefix}zettai${petik}
-
 
 *TEXTPRO MENU*${petik}
  • ${prefix}halloween2
@@ -509,7 +413,7 @@ ${mundur}
 `
 }
 
-exports.donate = (pushname, ownerNumber) => {
+exports.donate = (Husainilbs, 089510023459) => {
     return`Contact  Owner:
-wa.me/${ownerNumber} (Owner)`
+wa.me/${089510023459} (Owner)`
 }
